@@ -10,9 +10,10 @@ Make sure you have Python 3.x installed. You can download it [here](https://www.
 git clone https://github.com/your-username/zoraapexx.git
 cd zoraapexx
 pip install -r requirements.txt
-
+```
 
 Run the game using the following command:
 
-```bash
+```
 python main.py
+```
